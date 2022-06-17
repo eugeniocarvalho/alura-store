@@ -1,0 +1,15 @@
+.destaques {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: .2rem;
+  height: calc(100vh - 50px);
+}
+
+.destaques__titulo {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem;
+  color: #fdfdfd;
+  text-align: center;
+  width: 100%;
+}

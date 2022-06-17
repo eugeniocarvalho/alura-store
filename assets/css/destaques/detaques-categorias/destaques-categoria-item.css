@@ -1,0 +1,9 @@
+.destaques__categorias--item {
+  align-items: center;
+  background-color: #fdfdfd;
+  border-left: 5px solid transparent;
+  color: #333;
+  display: flex;
+  padding: 1rem;
+  width: 50%;
+}
