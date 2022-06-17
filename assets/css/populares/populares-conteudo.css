@@ -1,0 +1,7 @@
+.populares__conteudo {
+  display: flex;
+  flex-wrap: wrap;
+  grid-area: card=conteudo;
+  padding: 1rem 0;
+  /* justify-content: space-between; */
+}
