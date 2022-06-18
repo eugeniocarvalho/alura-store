@@ -7,7 +7,7 @@
   ;
   grid-template-columns: 100%;
   grid-template-rows: 160px auto;
-  margin: 1rem;
-  width: calc(20% - 2rem);
+  margin: .5rem;
+  width: 259px;
 }
 
