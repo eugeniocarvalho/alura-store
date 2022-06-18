@@ -1,3 +1,4 @@
 .conteudo {
   grid-area: conteudo;
+  padding: 0 2rem;
 }
